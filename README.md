@@ -1,4 +1,4 @@
-# custompaint
+# CustomPaintDemo
 
 A new Flutter application.
 
