@@ -1,6 +1,8 @@
 # CustomPaintDemo
 
 A new Flutter application.
+# Android Screen
+<img height="480px" src="https://user-images.githubusercontent.com/59611415/79469333-a9d5f600-801d-11ea-82bf-b39cae250e94.png">
 
 ## Getting Started
 
